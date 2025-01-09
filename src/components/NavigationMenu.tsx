@@ -13,6 +13,11 @@ export default function NavigationMenu() {
                         About
                     </Link>
                 </li>
+                <li>
+                    <Link to="/notebooks">
+                        Notebooks
+                    </Link>
+                </li>
             </ul>
         </nav>
     );
