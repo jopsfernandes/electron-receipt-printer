@@ -76,7 +76,7 @@
         "@radix-ui/react-toggle": "^1.1.1",
         "@radix-ui/react-toggle-group": "^1.1.1",
         "@tanstack/react-router": "^1.92.11",
-        "@tanstack/router-devtools": "^1.92.11",
+        "@tanstack/router-devtools": "^1.102.1",
         "@vitejs/plugin-react": "^4.3.4",
         "class-variance-authority": "^0.7.1",
         "clsx": "^2.1.1",
