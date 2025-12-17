@@ -109,7 +109,7 @@ export default function RestaurantOrderDialog() {
     defaultValues: {
       name: "",
       address: "",
-      paymentMethod: undefined,
+      paymentMethod: "card",
       deliveryMethod: "delivery",
       
     
